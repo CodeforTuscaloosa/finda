@@ -36,7 +36,7 @@
   "analytics": {
     "enabled": true,
     "private": false,
-    "google_tracker": null,
+    "google_tracker": "UA-65625206-1",
     "hostname": "auto",
     "detail_enabled": true
   },
